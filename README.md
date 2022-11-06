@@ -13,7 +13,7 @@ The Twelve Earthly Branches Energy is a collection of 12 kinds of Cosmic Energy 
 
 ## 3. Bandageman1w
 The Bandageman1w is a collection of 10,000 unique Bandage Man NFTs, which comes from that we always tie ourselves to problems, search to be free and fear to be free. We hope these NFTs can help us to see ourselves in a right way and find a inner peace.
-![banner Bandageman1w]https://github.com/lianhc/wwfem/blob/main/logo/Banner.png)
+![banner Bandageman1w](https://github.com/lianhc/wwfem/blob/main/logo/Banner.png)
 
 ## More details
 For more details, please visit https://opensea.io/wwfem
