@@ -11,6 +11,8 @@ Five Element Energy is a collection of 5 kinds of Cosmic Energy NFTs, 15 NFTs li
 The Twelve Earthly Branches Energy is a collection of 12 kinds of Cosmic Energy NFTs, 48 NFTs limited forever, which each has a secret power to PROTECT, CREATE and KILL others. Correct activations can dynamically improve the owner's health, wealth, happiness, energy and others.
 ![banner The Twelve Earthly Branches Energy](https://github.com/lianhc/wwfem/blob/main/logo/4.png)
 
+
+## More details
 For more details, please visit https://opensea.io/wwfem
 
 Relative websites as follows:
