@@ -1,5 +1,6 @@
 # wwfem
- A project in opensea to build and sell NFTs including: Water, Wood, Fire, Earth and Metal.
+ This is a project build and sell NFTs including: Water, Wood, Fire, Earth and Metal.
+ Currently, it has two colletcions, i.e. Five Element Energy, and The Twelve Earthly Branches Energy.
 
 ## Five Element Energy
 Five Element Energy is a collection of 5 kinds of Cosmic Energy NFTs, 15 NFTs limited forever, including Water, Wood, Fire, Earth and Metal. Each of them has a secret power to PROTECT, CREATE and KILL others. Correct activations can dynamically improve the owner's health, wealth, happiness, energy and others.
