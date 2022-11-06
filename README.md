@@ -13,8 +13,13 @@ The Twelve Earthly Branches Energy is a collection of 12 kinds of Cosmic Energy 
 For more details, please visit https://opensea.io/wwfem
 
 Relative websites as follows:
+
 https://opensea.io/wwfem
+
 https://github.com/lianhc/wwfem
+
 https://www.instagram.com/my_wwfem
+
 https://twitter.com/xiaowei18271237
+
 https://discord.gg/jFdGtSxhrR
