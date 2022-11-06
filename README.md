@@ -1,4 +1,4 @@
-# Welcome to Homepage of WWFEM
+# Welcome to Offical Homepage of WWFEM
  This is a project to build and sell NFTs involving energys of Water, Wood, Fire, Earth and Metal.
  
  Currently, it has two collections, i.e. Five Element Energy, and The Twelve Earthly Branches Energy.
