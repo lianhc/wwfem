@@ -1,6 +1,7 @@
 # Welcome to Homepage of WWFEM
  This is a project to build and sell NFTs involving energys of Water, Wood, Fire, Earth and Metal.
- Currently, it has two colletcions, i.e. Five Element Energy, and The Twelve Earthly Branches Energy.
+ 
+ Currently, it has two collections, i.e. Five Element Energy, and The Twelve Earthly Branches Energy.
 
 ## Five Element Energy
 Five Element Energy is a collection of 5 kinds of Cosmic Energy NFTs, 15 NFTs limited forever, including Water, Wood, Fire, Earth and Metal. Each of them has a secret power to PROTECT, CREATE and KILL others. Correct activations can dynamically improve the owner's health, wealth, happiness, energy and others.
