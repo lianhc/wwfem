@@ -1,5 +1,5 @@
 # Welcome to Homepage of WWFEM
- This is a project build and sell NFTs including: Water, Wood, Fire, Earth and Metal.
+ This is a project to build and sell NFTs involving energys of Water, Wood, Fire, Earth and Metal.
  Currently, it has two colletcions, i.e. Five Element Energy, and The Twelve Earthly Branches Energy.
 
 ## Five Element Energy
