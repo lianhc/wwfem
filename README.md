@@ -1,7 +1,9 @@
 # Welcome to Offical Homepage of WWFEM
- This is a project to build and sell NFTs on https://opensea.io/wwfem.
+ This is a project to build and sell NFTs on famous platforms.
  
- Currently, we have 3 collections which are Five Element Energy, The Twelve Earthly Branches Energy and Bandageman1w.
+ We startup several large NTFs collections, including funs and technologies, hope to bring you health, wealth and happiness.
+ 
+ Currently, they are Five Element Energy, The Twelve Earthly Branches Energy and Bandageman1w.
 
 ## 1. Five Element Energy
 Five Element Energy is a collection of 5 kinds of Cosmic Energy NFTs, 15 NFTs limited forever, including Water, Wood, Fire, Earth and Metal. Each of them has a secret power to PROTECT, CREATE and KILL others. Correct activations can dynamically improve the owner's health, wealth, happiness, energy and others.
